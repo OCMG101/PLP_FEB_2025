@@ -1,4 +1,3 @@
-
 class Smartphone:
     def __init__(self, brand, model, storage_gb, battery_mah):
         self.__brand = brand
